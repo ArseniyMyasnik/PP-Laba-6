@@ -8,7 +8,7 @@ int main() {
 	setlocale(LC_ALL, "rus");
 	int amount;
 	// Zapolnenie vhodnymi dannymi
-	cout << "Skol'ko budet vvedeno kriteriev i ob"ektov dlya sravneniya ? : ";
+	cout << "Skol'ko budet vvedeno kriteriev i obektov dlya sravneniya ? : ";
 		cin >> amount;
 	string* names_cr = new string[amount];
 	string* names_vr = new string[amount];
