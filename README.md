@@ -10,7 +10,6 @@
 ## Использование
 Открывать программу через любой редактор C++ (желательно Visual Studio). Для запуска программы открыть файл Source.spp. Для дальнейшего использования следовать командам программы.
 
-##Скриншоты!
-[1](https://user-images.githubusercontent.com/65024125/196037843-aa3fbf79-5849-43c6-9b9d-2e7a9849cbca.png)
-![2](https://user-images.githubusercontent.com/65024125/196037857-4856929a-3372-4168-a773-05192b5e76f2.png)
-![Test2](https://user-images.githubusercontent.com/65024125/196037860-4e352061-1742-47ce-af9f-242298890d25.png)
+##Скриншоты
+![image](https://user-images.githubusercontent.com/65024125/209800410-ce412abc-f714-4d97-aabf-f2999ff8d9e5.png)
+![Снимок экрана 2022-12-28 154554](https://user-images.githubusercontent.com/65024125/209800458-df903ebd-a1d2-4165-bb0f-91cfe33a9860.png)
