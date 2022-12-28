@@ -60,7 +60,6 @@ int main() {
 	for (int i = 0; i < amount; i++) {	// Summa vsekh znachenij matricy
 		sum += vec[i];
 	}
-	cout << "Summa vsekh znachenij matricy - " << sum << endl;
 	cout << "Vesovye koefficienty: ";	//Vyvod vesovyh koefficientov
 	for (int i = 0; i < amount; i++) {
 		cout << i + 1 << " - " << vec[i] / sum << ", ";
